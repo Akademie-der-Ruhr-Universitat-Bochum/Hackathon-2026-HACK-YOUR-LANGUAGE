@@ -4,6 +4,8 @@
 
 Frameworks, Plattformen oder Technologien werden hier angegeben und können als Hilfestellung genutzt werden, aber sind nicht verpflichtend zu nutzen. Sie dienen lediglich als Ansatz: 
 
+Die Liste ist derzeit in Bearbeitung...
+
 LLM-Modelle:
 
 Hugging-Face https://huggingface.co/models
