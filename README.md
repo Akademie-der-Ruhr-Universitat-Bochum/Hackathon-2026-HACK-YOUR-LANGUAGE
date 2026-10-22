@@ -4,8 +4,6 @@
 
 Frameworks, Plattformen oder Technologien werden hier angegeben und können als Hilfestellung genutzt werden, aber sind nicht verpflichtend zu nutzen. Sie dienen lediglich als Ansatz: 
 
-Die Liste ist derzeit in Bearbeitung...
-
 ### LLM-Modelle:
 
 Hugging Face https://huggingface.co/models
@@ -31,6 +29,10 @@ Es kann und darf mit KI-Tools entwickelt werden, aber der Einsatz und Auslagerun
 
 
 Weiter soll auch der von KI entwickelte Teil selbst überprüft und von euch nachvollziehbar sein.
+
+OpenCode(Open-Source-KI-Coding-Agent ) https://opencode.ai/
+Installationsdoku: https://opencode.ai/docs/ 
+Video zur Installation:https://www.youtube.com/watch?v=jstOMwISup8
 
 ## Bewertungskriterien
 
