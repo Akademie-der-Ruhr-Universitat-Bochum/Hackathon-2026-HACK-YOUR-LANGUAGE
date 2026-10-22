@@ -73,6 +73,8 @@ Setzt sich das Team kritisch mit den Grenzen der eigenen Lösung auseinander?
 
 ​2.Tag: 12-14 Uhr Sprechstunde (Link am Freitag per Mail)​
 
-​3.Tag.: Bis 23.59 Uhr Abgabe kurzer Beschreibung des Produktes -> Bis Montag 9.00 Uhr Präsentation per Mail senden​​
+​3.Tag.: Bis 23.59 Uhr Abgabe kurzer Beschreibung des Produktes -> Bis Montag 9.00 Uhr Präsentation per Mail senden
+
+# Challenge...​​
 
 ​​
