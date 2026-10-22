@@ -39,35 +39,35 @@ Weiter soll auch der von KI entwickelte Teil selbst überprüft und von euch nac
 Wie neuartig und kreativ ist die Lösung?​, Wird KI sinnvoll und innovativ eingesetzt?​
 Entsteht ein klarer Mehrwert gegenüber klassischen Sprachförderangeboten?​
 
-## Wissenschaftliche Fundierung​
+### Wissenschaftliche Fundierung​
 
 Beruht die Lösung auf nachvollziehbaren Annahmen oder wissenschaftlichen Erkenntnissen?​
 Werden Erkenntnisse aus Sprachdidaktik, Lernpsychologie, Kommunikation oder KI-Forschung berücksichtigt?​
 
-## Umsetzbarkeit​
+### Umsetzbarkeit​
 
 Ist die Lösung technisch und organisatorisch realisierbar?​
 Kann sie in einem Unternehmen sinnvoll eingeführt und skaliert werden?​
 
-## Qualität​
+### Qualität​
 
 Ist das Konzept schlüssig und nutzerorientiert?​
 Überzeugt die Qualität des Prototyps, der Demonstration oder der Präsentation?​
 
-## Kritische Reflexion​
+### Kritische Reflexion​
 
 Werden Datenschutz, Fairness, Transparenz und mögliche Risiken angemessen berücksichtigt?​
 Setzt sich das Team kritisch mit den Grenzen der eigenen Lösung auseinander?
 
 # Rahmen des Hackathons
 
-## Vor Ort:​
+### Vor Ort:​
 
 ​1.Tag (Opening)​: Gruppenbildung, Aufgabe, Beginn​
 
 ​4.Tag (Pitch-Tag)​: Pitches der Produkte max. 10 min, Jury-Bewertung nach Kriterien​
 
-## Online:​
+### Online:​
 
 ​Sa.-So.: Online entwickeln in 3er-Teams​
 
