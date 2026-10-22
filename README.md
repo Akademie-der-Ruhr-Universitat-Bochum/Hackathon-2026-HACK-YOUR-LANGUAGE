@@ -63,9 +63,9 @@ Setzt sich das Team kritisch mit den Grenzen der eigenen Lösung auseinander?
 
 ### Vor Ort:​
 
-​1.Tag (Opening)​: Gruppenbildung, Aufgabe, Beginn​
+​1.Tag (Opening) ​10.00 -16.30 Uhr: Gruppenbildung, Aufgabe, Beginn​
 
-​4.Tag (Pitch-Tag)​: Pitches der Produkte max. 10 min, Jury-Bewertung nach Kriterien​
+​4.Tag (Pitch-Tag)​ 10.00 - 16.30 Uhr: Pitches der Produkte max. 10 min, Jury-Bewertung nach Kriterien​
 
 ### Online:​
 
