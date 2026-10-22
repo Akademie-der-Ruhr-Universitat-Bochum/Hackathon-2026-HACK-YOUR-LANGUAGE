@@ -31,8 +31,8 @@ Es kann und darf mit KI-Tools entwickelt werden, aber der Einsatz und Auslagerun
 Weiter soll auch der von KI entwickelte Teil selbst überprüft und von euch nachvollziehbar sein.
 
 OpenCode(Open-Source-KI-Coding-Agent ) https://opencode.ai/
-Installationsdoku: https://opencode.ai/docs/ 
-Video zur Installation:https://www.youtube.com/watch?v=jstOMwISup8
+Installationsdoku: https://opencode.ai/docs/  (für alle Betriebssysteme beschrieben)
+Video zur Installation:https://www.youtube.com/watch?v=jstOMwISup8 (für Windows -> ähnlich für andere Betriebssysteme)
 
 ## Bewertungskriterien
 
